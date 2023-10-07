@@ -3,6 +3,9 @@ A simple pipeline for de novo genome assembly of clinical bacterial isolates usi
 
 The pipeline is designed to process short-read sequencing data, perform trimming, de novo assembly, quality assessment and provide a summary of the assembly metrics. This pipeline was specifically designed to work with our own dataset, however the trimming and assembly parameters can be changed by altering the respective scripts to suit the user's needs.
 
+To read more, click on the following link:
+https://docs.google.com/document/d/e/2PACX-1vSC5OIyYUQUYe7Bukhd_6UhQkTZzsMkMAzKER3qv_b8nSxHSMhjWNIwetp6m_mpt-kmblYGlAOG0lJ6/pub
+
 # References
 1.	Bolger, A. M., Lohse, M., & Usadel, B. (2014). Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics, 30(15), 2114–2120. https://doi.org/10.1093/BIOINFORMATICS/BTU170
 
