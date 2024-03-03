@@ -57,10 +57,10 @@ This documentation provides an overview and usage instructions for the scripts i
 ## **Workflow steps**
 
 1. Read Trimming and Filtering (read-trimming.sh)-Trims and filters reads to remove low-quality bases and adapter sequences. 
-2. Genome Assembly (assembly.sh)- Utilizes unicycler for short-read genome assembly using high quality short reads. ● Generates a de novo genome assembly. 
+2. Genome Assembly (assembly.sh)- Utilizes unicycler for short-read genome assembly using high quality short reads. 
 3. Quality assessment of genome assembly using QUAST (quast.sh)- Uses quast to assess the contiguity of an assembly. 
-4. Assembly metric summary (quast-summary.sh)- Retrieves the total contig number, N50 and GC content statistics for each assembly. ● Returns the summary in the form of a CSV file.
-
+4. Assembly metric summary (quast-summary.sh)- Retrieves the total contig number, N50 and GC content statistics for each assembly.
+   
 ## **Output files**
 
 In the output folder, the results directory contains key subfolders and files summarizing the analysis results: 
