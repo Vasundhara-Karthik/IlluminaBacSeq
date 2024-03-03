@@ -44,7 +44,7 @@ This documentation provides an overview and usage instructions for the scripts i
 
     ``` git clone https://github.com/Vasundhara-Karthik/IlluminaBacSeq.git```
 
-### **Usage**
+## **Usage**
 
 ```sh ./master.sh <raw_reads_directory> <output_directory> <adaptor_file> <num_threads> <path_to_scripts>```
 
